@@ -1,0 +1,19 @@
+Inicializar um projeto Node
+ - npm init --yes
+
+Instalar o Cypress
+ - npm install -D cypress (pega a versão mais recente)
+ - npm install -D cypress@12.5.0 (para Instalar uma versão especifica)
+
+Arquivos:
+
+cypress.config.js
+pasta e2e onde tem os arquivos de testes(espcs)
+fixtures onde fica os dados/mocks 
+support para aquivos auxiliares
+
+
+Outros comandos:
+
+npx cypress run - para rodar os testes no modo headless
+
