@@ -18,3 +18,4 @@ Outros comandos:
 npx cypress run - para rodar os testes no modo headless
 
 Teste
+Teste Windows
